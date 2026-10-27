@@ -7,4 +7,4 @@
 :align: left
 ```
 \
-Je suis étudiant(e) en bachelor en **[nom du programme]** à l'**UNIL**, avec un intérêt particulier pour **[domaine principal / spécialisation]**.
+Je suis étudiante en bachelor en **FGSE - Sciences de l'Environnement** à l'**UNIL**, avec un intérêt particulier pour **les systèmes énergétiques et processus environnementaux**.
